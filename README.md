@@ -1,29 +1,31 @@
-# Create T3 App
+# WP CLI GUI
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+A user-friendly graphical interface designed for managing WordPress through its command line. This tool simplifies complex tasks for developers, allowing for quicker website setup and management while enhancing overall productivity. With intuitive navigation and streamlined commands, it empowers users to efficiently handle their WordPress projects with ease.
 
-## What's next? How do I make an app with this?
+![WP CLI GUI Logo](logo.png)
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## Features
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+- **User-Friendly Interface**: Intuitive Web GUI provides a easy way to interact with WP CLI
+- **Command Line Integration**: Easily manage WordPress tasks through the command line.
+- **Simplified Setup**: Quickly create new WordPress sites with minimal effort.
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+## Getting Started
 
-## Learn More
+Simpley go [here](https://wpcligui.mrdemonwolf.com?utm_source=github&utm_medium=readme&utm_campaign=wp_cli_gui) to get started.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+# Change Log
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+## License
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+![GitHub license](https://img.shields.io/github/license/MrDemonWolf/wpcligui.svg?style=for-the-badge&logo=github)
 
-## How do I deploy this?
+## Contact
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+If you have any questions, suggestions, or feedback, feel free to reach out to us on Discord!
+
+- Discord: [Join our server](https://mrdwolf.net/discord)
+
+Thank you for choosing this project to help you create WordPress websites faster!
+
+Made with ❤️ by <a href="https://www.mrdemonwolf.com">MrDemonWolf, Inc.</a>
